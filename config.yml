@@ -1,0 +1,14 @@
+mysql:
+   host-name: localhost
+   porta: 3306
+   database: sttey
+   usuario: root
+   senha:
+   
+Mensagens:
+- '&e&LINFO &fMENSAGEM 1'
+- '&e&LINFO &fMENSAGEM 2'
+- '&e&LINFO &fMENSAGEM 3'
+- '&e&LINFO &fMENSAGEM 4'
+- '&e&LINFO &fMENSAGEM 5'
+- '&e&LINFO &fMENSAGEM 6'

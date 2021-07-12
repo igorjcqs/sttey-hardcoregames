@@ -1,0 +1,7 @@
+name: HardcoreGames
+version: BETA
+author: mgsbits
+main: me.igormgs.Main
+commands:
+  lobby:
+  tempo:
